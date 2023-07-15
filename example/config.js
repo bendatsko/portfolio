@@ -37,10 +37,6 @@ module.exports = {
   },
   social: [
     {
-      url: '/resume.pdf',
-      icon: 'file',
-    },
-    {
       url: 'https://www.linkedin.com/in/bendatsko/',
       icon: ['fab', 'linkedin'],
     },

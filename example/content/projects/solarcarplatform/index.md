@@ -2,7 +2,7 @@
 title: "U-M Solar Car - Race Simulation Microservice"
 tags: ["web", "react", "flask", "api"]
 date: 2022-11-1
-cover: "./preview.png"
+cover: "./IMG_7951-Edit.jpg"
 path: "projects/websim"
 ---
 
